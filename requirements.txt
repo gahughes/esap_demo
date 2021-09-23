@@ -1,0 +1,7 @@
+numpy
+scipy
+Astropy
+regions
+click
+PyYAML
+pydantic
